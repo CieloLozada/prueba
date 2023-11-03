@@ -1,4 +1,4 @@
-# prueba
+# Introducción a github
 
 Mi primer repositorio en github
 
