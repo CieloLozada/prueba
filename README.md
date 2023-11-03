@@ -2,10 +2,10 @@
 
 Mi primer repositorio en *github* con **git**
 
-´´´r
+```r
 x=rnorm(100)
 hist(x)
-´´´
+```
 ## Seccion 1
 
 Empezando un texto
