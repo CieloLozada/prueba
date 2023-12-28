@@ -1,7 +1,7 @@
  # Introducción a github
 
-Mi primer repositorio en *github* con **git**
-
+Mi primer repositorio en *github* con **git**. Un proyecto se puede clonar utilizando `git clone`
+  
 ```r
 x=rnorm(100)
 hist(x)
