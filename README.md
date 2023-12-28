@@ -16,3 +16,12 @@ $$x \sim N(0,\sigma^2)$$
 
 Esto es una prueba
 
+## Sección 3
+
+Este es el formato de una tabla
+
+|Id|Profession|Age|
+|--|--|--|
+|1|Statistician|25|
+|2|Writer|32|
+
