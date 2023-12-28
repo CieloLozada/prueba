@@ -22,6 +22,13 @@ Este es el formato de una tabla
 
 |Id|Profession|Age|
 |--|--|--|
-|1|Statistician|25|
-|2|Writer|32|
+|1|Statiscian|25|
+|2| Writer|32|
+
+## Enlaces e imágenes
+
+El enlace para este repositorio es [mi repositorio](https://github.com/CieloLozada/prueba).
+
+Ahora agrego una imagen del software: git
+![git](figuras/git_imagen.png)
 
