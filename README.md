@@ -33,3 +33,8 @@ Ahora agrego una imagen del software: git
 
 ![git](figuras/git_imagen.png)
 
+## Última sección
+
+Esta es la última sección
+
+
