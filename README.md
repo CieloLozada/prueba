@@ -30,5 +30,6 @@ Este es el formato de una tabla
 El enlace para este repositorio es [mi repositorio](https://github.com/CieloLozada/prueba).
 
 Ahora agrego una imagen del software: git
+
 ![git](figuras/git_imagen.png)
 
