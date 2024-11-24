@@ -43,5 +43,6 @@ Esta es la última sección
 - Item2
 - Item3
 
-
+  
+![git](figuras/interactive_plot.html)
 
