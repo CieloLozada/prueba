@@ -161,3 +161,21 @@ If you'd like to preview the theme locally (for example, in the process of propo
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
 
+
+
+---
+layout: default
+title: Mi Gráfico Interactivo
+---
+# Mi Gráfico Interactivo
+
+Este es un gráfico interactivo generado con Plotly:
+
+<iframe src="figuras/interactive_plot.html" width="100%" height="600"></iframe>
+
+
+
+
+
+
+
