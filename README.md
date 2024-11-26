@@ -1,3 +1,11 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+ 
+ 
+ 
  # Introducción a github
 
 Mi primer repositorio en *github* con **git**. Un proyecto se puede clonar utilizando `git clone`
