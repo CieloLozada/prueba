@@ -13,3 +13,6 @@ plugins:
 #  - jekyll-remote-theme
 markdown: kramdown
 
+
+header_pages:
+  - README.md
