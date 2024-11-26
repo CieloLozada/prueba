@@ -16,3 +16,10 @@ markdown: kramdown
 
 header_pages:
   - README.md
+
+author:
+  name: "Nombre del Autor"
+  email: "correo@ejemplo.com"
+
+feed:
+  path: "feed.xml"
