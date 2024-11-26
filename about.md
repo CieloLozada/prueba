@@ -184,10 +184,6 @@ The theme contains a minimal test suite, to ensure a site with the theme would b
 
 
 
----
-layout: default
-title: Mi Gráfico Interactivo
----
 # Mi Gráfico Interactivo
 
 Este es un gráfico interactivo generado con Plotly:
