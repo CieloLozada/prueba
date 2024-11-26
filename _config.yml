@@ -20,6 +20,9 @@ header_pages:
 include:
   - "figuras"
 
+  assets:
+  - "figuras"
+
   
 author:
   name: "Nombre del Autor"
