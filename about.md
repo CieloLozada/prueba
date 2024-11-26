@@ -1,10 +1,4 @@
----
-layout: page
-title: About
-permalink: /about/
----
- 
- 
+
  
  # Introducción a github
 
