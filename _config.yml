@@ -20,7 +20,7 @@ header_pages:
 include:
   - "figuras"
 
-  assets:
+assets:
   - "figuras"
 
   
