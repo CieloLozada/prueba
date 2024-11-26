@@ -1,11 +1,11 @@
 title: "Mi sitio web"
 description: "Un blog sencillo creado con Jekyll y GitHub Pages"
-theme: minima
 remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
 
 
 # remote_theme: pages-themes/time-machine@v0.2.0
