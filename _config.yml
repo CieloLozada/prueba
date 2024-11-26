@@ -18,11 +18,10 @@ header_pages:
   - about.md
 
 include:
-  - "figuras"
+  - figuras
 
 assets:
-  - "figuras"
-
+  - figuras
   
 author:
   name: "Nombre del Autor"
