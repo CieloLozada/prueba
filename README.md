@@ -173,6 +173,8 @@ Este es un gráfico interactivo generado con Plotly:
 
 <iframe src="figuras/interactive_plot.html" width="100%" height="600"></iframe>
 
+Este es un gráfico interactivo generado con Plotly:
+
 <iframe src="figuras/interactive_plot_2.html" width="100%" height="600"></iframe>
 
 
